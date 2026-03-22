@@ -161,6 +161,7 @@ cloud-compliance-readiness-toolkit/
 ├── streamlit_app.py
 ├── requirements.txt
 └── README.md
+```
 ---
 
 ### 📸 Screenshots
