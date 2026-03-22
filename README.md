@@ -165,8 +165,6 @@ cloud-compliance-readiness-toolkit/
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
 
