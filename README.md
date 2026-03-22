@@ -1,8 +1,11 @@
 # 🔐 Cloud Compliance Readiness Toolkit
-> Simulating real-world cyber assurance and cloud compliance assessments using a full-stack GRC platform across SOC 2, ISO/IEC 27001, and PCI DSS.latform or modelling cloud compliance readiness across SOC 2, ISO 27001, and PCI DSS..
+
+> Simulating real-world cyber assurance and cloud compliance assessments using a full-stack GRC platform across SOC 2, ISO/IEC 27001, and PCI DSS.
 
 A portfolio-ready **FastAPI + Streamlit** application that simulates how organisations assess cloud compliance readiness across frameworks such as **SOC 2, ISO/IEC 27001, and PCI DSS**.
+
 It models real-world cyber assurance workflows, including control assessment, evidence collection, risk identification, and remediation tracking.
+
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
@@ -61,7 +64,7 @@ This toolkit provides a structured, API-driven approach to:
 - Track evidence and findings  
 - Manage remediation workflows  
 - Quantify compliance readiness
-- 
+
 It bridges the gap between **technical controls** and **business-level risk visibility**.
 
 ---
