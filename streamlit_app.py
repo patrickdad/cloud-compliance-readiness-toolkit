@@ -9,7 +9,7 @@ API_BASE_URL = os.getenv("API_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
 
 st.set_page_config(
     page_title="Cloud Compliance Readiness Toolkit",
-    page_icon="🛡️",
+    page_icon="🔐",
     layout="wide",
 )
 
@@ -74,9 +74,43 @@ def highlight_status(val):
     return ""
 
 
-st.title("Cloud Compliance Readiness Toolkit")
-st.markdown("### 🛡️ Cloud Compliance Dashboard")
-st.caption("FastAPI + Streamlit demo frontend for cloud compliance readiness reporting")
+st.markdown("""
+<style>
+.main-header {
+    font-size: 36px;
+    font-weight: 700;
+    color: #0F172A;
+}
+
+.sub-header {
+    font-size: 16px;
+    color: #64748B;
+    margin-bottom: 20px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 6px 12px;
+    background-color: #2563EB;
+    color: white;
+    border-radius: 6px;
+    font-size: 12px;
+    margin-right: 8px;
+}
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+<div class="main-header">🛡️ Cloud Compliance Readiness Toolkit</div>
+<div class="sub-header">
+Full-stack GRC platform for SOC 2, ISO 27001, and PCI DSS readiness
+</div>
+
+<span class="badge">FastAPI</span>
+<span class="badge">Streamlit</span>
+<span class="badge">GRC</span>
+<span class="badge">Cloud Security</span>
+""", unsafe_allow_html=True)
 
 with st.sidebar:
     st.header("Configuration")
