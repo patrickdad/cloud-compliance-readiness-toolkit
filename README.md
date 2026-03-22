@@ -1,7 +1,8 @@
 # 🔐 Cloud Compliance Readiness Toolkit
-> Simulating real-world cyber assurance and cloud compliance assessments using a full-stack GRC platform or modelling cloud compliance readiness across SOC 2, ISO 27001, and PCI DSS..
+> Simulating real-world cyber assurance and cloud compliance assessments using a full-stack GRC platform across SOC 2, ISO/IEC 27001, and PCI DSS.latform or modelling cloud compliance readiness across SOC 2, ISO 27001, and PCI DSS..
 
-A portfolio-ready **FastAPI + Streamlit** application designed to simulate how organisations assess cloud compliance readiness across frameworks such as **SOC 2, ISO/IEC 27001, and PCI DSS**.
+A portfolio-ready **FastAPI + Streamlit** application that simulates how organisations assess cloud compliance readiness across frameworks such as **SOC 2, ISO/IEC 27001, and PCI DSS**.
+It models real-world cyber assurance workflows, including control assessment, evidence collection, risk identification, and remediation tracking.
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
@@ -27,9 +28,10 @@ This toolkit models the full lifecycle of a cloud compliance assessment, includi
 - Remediation task management  
 - Readiness scoring and dashboard reporting  
 - Cross-framework control mapping  
-- PDF report generation  
+- PDF report generation
 
-The goal is to demonstrate practical understanding of **GRC (Governance, Risk & Compliance)** workflows used in real-world cyber assurance engagements.
+This project demonstrates practical implementation of **GRC (Governance, Risk & Compliance)** workflows used in real-world cyber assurance engagements.
+
 ---
 ## 💼 Business Value
 
@@ -41,8 +43,8 @@ This project demonstrates how organisations can:
 - Prioritise risks based on severity and impact
 - Manage remediation workflows effectively
 - Generate executive-ready compliance reports
+> This project reflects the type of structured assessments performed by cyber risk, assurance, and GRC teams in regulated environments.
 
-It bridges the gap between technical controls and governance, risk, and compliance (GRC) requirements.
 ---
 ## 🧱 Architecture
 ![Architecture Diagram](docs/screenshots/architecture.png)
@@ -58,9 +60,10 @@ This toolkit provides a structured, API-driven approach to:
 - Model control implementation  
 - Track evidence and findings  
 - Manage remediation workflows  
-- Quantify compliance readiness  
-
+- Quantify compliance readiness
+- 
 It bridges the gap between **technical controls** and **business-level risk visibility**.
+
 ---
 
 ## 🏥 Example Use Case
@@ -80,7 +83,7 @@ A healthcare organisation preparing for ISO/IEC 27001 or SOC 2 audit can use thi
 - Models real-world compliance workflows (SOC 2, ISO 27001, PCI DSS)
 - Demonstrates control lifecycle, risk tracking, and remediation
 - Includes dashboard visualisation and PDF export
-- Designed to reflect real cyber assurance engagements
+- Designed to simulate real-world cyber assurance engagements
 ---
 
 ### 🔹 Project-Based Assessments
@@ -225,11 +228,11 @@ This project demonstrates:
 - Reporting and stakeholder communication  
 ---
 ## 🚀 Future Enhancements
-* AWS integration (CloudTrail, IAM, S3 checks)
-* Automated evidence ingestion
-* Role-based access control (RBAC)
-* Multi-project analytics dashboard
-* React-based frontend
+- AWS integration (CloudTrail, IAM, S3 checks)
+- Automated evidence ingestion
+- Role-based access control (RBAC)
+- Multi-project analytics dashboard
+- React-based frontend
 ---
 ## 🧠 Skills Demonstrated
 
