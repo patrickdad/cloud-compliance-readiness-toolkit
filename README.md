@@ -146,20 +146,25 @@ Interactive dashboard for:
 ---
 
 ## 📂 Project Structure
+
+```text
 cloud-compliance-readiness-toolkit/
 ├── app/
-│ ├── models/
-│ ├── routes/
-│ ├── services/
-│ ├── db.py
-│ └── main.py
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   ├── db.py
+│   └── main.py
 ├── docs/
-│ ├── sample-report.pdf
-│ └── screenshots/
+│   ├── sample-report.pdf
+│   └── screenshots/
 ├── streamlit_app.py
 ├── requirements.txt
 └── README.md
 ---
+
+## 📸 Screenshots
+
 ## 📸 Screenshots
 
 ### Dashboard
