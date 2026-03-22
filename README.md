@@ -163,7 +163,7 @@ cloud-compliance-readiness-toolkit/
 └── README.md
 ---
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 ### Dashboard
 [![Dashboard](docs/screenshots/dashboard.png)](docs/screenshots/dashboard.png)
@@ -178,7 +178,7 @@ cloud-compliance-readiness-toolkit/
 [![Crosswalk](docs/screenshots/crosswalk.png)](docs/screenshots/crosswalk.png)
 
 ### PDF Report
-[![PDF](docs/screenshots/pdf.png)](docs/screenshots/pdf.png)
+[![PDF](docs/screenshots/pdf.png)](docs/screenshots/pdf.png)[![PDF](docs/screenshots/pdf.png)](docs/screenshots/pdf.png)
 
 ---
 
