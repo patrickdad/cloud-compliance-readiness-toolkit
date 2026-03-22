@@ -175,6 +175,7 @@ cloud-compliance-readiness-toolkit/
 ├── requirements.txt
 └── README.md
 ```
+
 ---
 > Below are real outputs from the toolkit demonstrating compliance tracking, risk identification, and reporting.
 ## 📸 Screenshots
@@ -182,14 +183,22 @@ cloud-compliance-readiness-toolkit/
 ### Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
 
+---
+
 ### Risk & Remediation
 ![Findings](docs/screenshots/findings.png)
+
+---
 
 ### Controls View
 ![Controls](docs/screenshots/controls.png)
 
+---
+
 ### Crosswalk Mapping
 ![Crosswalk](docs/screenshots/crosswalk.png)
+
+---
 
 ### PDF Report
 ![PDF](docs/screenshots/pdf.png)
