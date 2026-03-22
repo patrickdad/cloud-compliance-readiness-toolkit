@@ -166,19 +166,19 @@ cloud-compliance-readiness-toolkit/
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+[![Dashboard](docs/screenshots/dashboard.png)](docs/screenshots/dashboard.png)
 
 ### Risk & Remediation
-![Findings](docs/screenshots/findings.png)
+[![Findings](docs/screenshots/findings.png)](docs/screenshots/findings.png)
 
 ### Controls View
-![Controls](docs/screenshots/controls.png)
+[![Controls](docs/screenshots/controls.png)](docs/screenshots/controls.png)
 
 ### Crosswalk Mapping
-![Crosswalk](docs/screenshots/crosswalk.png)
+[![Crosswalk](docs/screenshots/crosswalk.png)](docs/screenshots/crosswalk.png)
 
 ### PDF Report
-![PDF](docs/screenshots/pdf.png)
+[![PDF](docs/screenshots/pdf.png)](docs/screenshots/pdf.png)
 
 ---
 
