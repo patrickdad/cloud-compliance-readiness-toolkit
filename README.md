@@ -1,24 +1,20 @@
 # 🔐 Cloud Compliance Readiness Toolkit
+> Simulating real-world cyber assurance and cloud compliance assessments using a full-stack GRC platform or modelling cloud compliance readiness across SOC 2, ISO 27001, and PCI DSS..
 
 A portfolio-ready **FastAPI + Streamlit** application designed to simulate how organisations assess cloud compliance readiness across frameworks such as **SOC 2, ISO/IEC 27001, and PCI DSS**.
 ---
 
-> A full-stack GRC platform for modelling cloud compliance readiness across SOC 2, ISO 27001, and PCI DSS.
-
----
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
 ![Status](https://img.shields.io/badge/Status-Portfolio_Project-orange)
 ---
 ## 🚀 Live Demo
-Run locally to explore full functionality
 
-Frontend Dashboard:
-http://localhost:8501
+Run locally to explore full functionality:
 
-API Docs:
-http://127.0.0.1:8000/docs
+- **Frontend Dashboard:** http://localhost:8501  
+- **API Docs:** http://127.0.0.1:8000/docs  
 ---
 
 ## 🚀 Overview
@@ -34,7 +30,19 @@ This toolkit models the full lifecycle of a cloud compliance assessment, includi
 - PDF report generation  
 
 The goal is to demonstrate practical understanding of **GRC (Governance, Risk & Compliance)** workflows used in real-world cyber assurance engagements.
+---
+## 💼 Business Value
 
+This project demonstrates how organisations can:
+
+- Identify compliance gaps across cloud environments
+- Track control implementation and validation status
+- Centralise evidence collection for audits
+- Prioritise risks based on severity and impact
+- Manage remediation workflows effectively
+- Generate executive-ready compliance reports
+
+It bridges the gap between technical controls and governance, risk, and compliance (GRC) requirements.
 ---
 ## 🧱 Architecture
 ![Architecture Diagram](docs/screenshots/architecture.png)
@@ -55,16 +63,15 @@ This toolkit provides a structured, API-driven approach to:
 It bridges the gap between **technical controls** and **business-level risk visibility**.
 ---
 
-## 🏢 Use Case
+## 🏥 Example Use Case
 
-A SaaS company preparing for SOC 2 or ISO 27001 certification can use this toolkit to:
+A healthcare organisation preparing for ISO/IEC 27001 or SOC 2 audit can use this toolkit to:
 
-- Track control implementation status
-- Collect and manage audit evidence
-- Identify security gaps and risks
-- Assign remediation tasks to teams
-- Monitor readiness through dashboards
-- Generate stakeholder-ready reports
+- Assess cloud security posture (AWS environment)
+- Map controls to compliance frameworks
+- Identify high-risk gaps (e.g., public S3 exposure)
+- Track remediation tasks across teams
+- Produce audit-ready reports for stakeholders
 ---
 
 ## ⭐ Key Highlights
@@ -180,6 +187,7 @@ cloud-compliance-readiness-toolkit/
 
 ### PDF Report
 ![PDF](docs/screenshots/pdf.png)
+
 ---
 
 ## 📄 Sample Report
@@ -210,11 +218,11 @@ streamlit run streamlit_app.py
 
 This project demonstrates:
 
-Practical GRC workflow implementation
-Control-based risk assessment methodology
-Evidence-driven assurance
-API-driven architecture design
-Reporting and stakeholder communication
+- Practical GRC workflow implementation  
+- Control-based risk assessment methodology  
+- Evidence-driven assurance  
+- API-driven architecture design  
+- Reporting and stakeholder communication  
 ---
 ## 🚀 Future Enhancements
 * AWS integration (CloudTrail, IAM, S3 checks)
@@ -240,4 +248,5 @@ Reporting and stakeholder communication
 **Patrick Adefowora**  
 Cyber Risk & Assurance Analyst | ISO/IEC 27001 | SOC 2 | Cloud Security  
 
-🔗 LinkedIn: https://www.linkedin.com/in/patrickadefowora/
+🔗 LinkedIn: https://www.linkedin.com/in/patrickadefowora/  
+📂 GitHub: https://github.com/patrickdad
