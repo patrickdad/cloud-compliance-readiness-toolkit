@@ -107,7 +107,7 @@ A healthcare organisation preparing for ISO/IEC 27001 or SOC 2 audit can use thi
 
 ## ⭐ Key Highlights
 
--- Multi-framework compliance simulation (SOC 2, ISO 27001, PCI DSS)  
+- Multi-framework compliance simulation (SOC 2, ISO 27001, PCI DSS)  
 - Control assessment workflows  
 - Evidence tracking system  
 - Risk register generation  
