@@ -1,5 +1,7 @@
 ![Banner](assets/cloud-toolkit-card.jpg)
 
+---
+
 # 🔐 Cloud Compliance Readiness Toolkit
 
 > Simulating real-world cyber assurance and cloud compliance assessments using a full-stack GRC platform across SOC 2, ISO/IEC 27001, and PCI DSS.
