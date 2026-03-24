@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/patrickdad/cloud-compliance-readiness-toolkit/main/assets/cloud-toolkit-card.jpg" width="47%" />
-
----
+![Banner](assets/cloud-toolkit-card.jpg)
 
 # 🔐 Cloud Compliance Readiness Toolkit
 
