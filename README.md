@@ -23,7 +23,9 @@ Run locally to explore full functionality:
 
 ## 🚀 Overview
 
-This toolkit models the full lifecycle of a cloud compliance assessment, including:
+This project is a portfolio-ready **GRC platform simulation** that demonstrates how organisations assess, manage, and improve cloud compliance readiness.
+
+It replicates real-world cyber assurance workflows used in regulated environments, including:
 
 - Control implementation tracking  
 - Evidence collection  
@@ -33,9 +35,22 @@ This toolkit models the full lifecycle of a cloud compliance assessment, includi
 - Cross-framework control mapping  
 - PDF report generation
 
-This project demonstrates practical implementation of **GRC (Governance, Risk & Compliance)** workflows used in real-world cyber assurance engagements.
+Unlike static compliance documentation, this platform shows how frameworks translate into **operational processes and decision-making tools**.
 
 ---
+## 🎯 Why This Project Matters
+
+Organisations often struggle to move from **compliance frameworks → practical implementation**.
+
+This project demonstrates:
+
+- How ISO 27001, SOC 2 and PCI DSS controls are operationalised  
+- How evidence is collected and linked to controls  
+- How risk is identified, prioritised and tracked  
+- How compliance becomes **continuous assurance rather than a one-time exercise**
+
+---
+
 ## 💼 Business Value
 
 This project demonstrates how organisations can:
@@ -68,6 +83,16 @@ This toolkit provides a structured, API-driven approach to:
 It bridges the gap between **technical controls** and **business-level risk visibility**.
 
 ---
+## 🚀 Who can use
+
+This platform could be used by:
+
+- Cybersecurity consultants  
+- Internal audit teams  
+- Compliance and risk teams  
+- Startups preparing for certification  
+
+---
 
 ## 🏥 Example Use Case
 
@@ -82,11 +107,12 @@ A healthcare organisation preparing for ISO/IEC 27001 or SOC 2 audit can use thi
 
 ## ⭐ Key Highlights
 
-- Full-stack GRC platform (backend + frontend + reporting)
-- Models real-world compliance workflows (SOC 2, ISO 27001, PCI DSS)
-- Demonstrates control lifecycle, risk tracking, and remediation
-- Includes dashboard visualisation and PDF export
-- Designed to simulate real-world cyber assurance engagements
+-- Multi-framework compliance simulation (SOC 2, ISO 27001, PCI DSS)  
+- Control assessment workflows  
+- Evidence tracking system  
+- Risk register generation  
+- Remediation tracking
+
 ---
 
 ### 🔹 Project-Based Assessments
@@ -233,18 +259,21 @@ streamlit run streamlit_app.py
 
 This project demonstrates:
 
-- Practical GRC workflow implementation  
-- Control-based risk assessment methodology  
+- Practical understanding of GRC workflow implementation  
+- Understanding of risk-based decision making  
 - Evidence-driven assurance  
-- API-driven architecture design  
+- API-driven architecture design 
+- Awareness of real-world audit and assurance processes
 - Reporting and stakeholder communication  
 ---
 ## 🚀 Future Enhancements
-- AWS integration (CloudTrail, IAM, S3 checks)
+- Integration with cloud providers (AWS/Azure compliance checks, IAM, S3 checks)
 - Automated evidence ingestion
 - Role-based access control (RBAC)
 - Multi-project analytics dashboard
 - React-based frontend
+- Real-time risk scoring dashboard 
+
 ---
 ## 🧠 Skills Demonstrated
 
