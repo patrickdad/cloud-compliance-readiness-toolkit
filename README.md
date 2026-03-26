@@ -60,10 +60,12 @@ This project demonstrates:
 This project demonstrates how organisations can:
 
 - Identify compliance gaps across cloud environments
-- Track control implementation and validation status
+- Track control implementation and validation status across frameworks
 - Centralise evidence collection for audits
+- Support audit readiness (ISO 27001 /SOC 2, PCI DSS)
 - Prioritise risks based on severity and impact
 - Manage remediation workflows effectively
+- Improve risk visibility for stakeholders
 - Generate executive-ready compliance reports
 > This project reflects the type of structured assessments performed by cyber risk, assurance, and GRC teams in regulated environments.
 
@@ -207,9 +209,9 @@ cloud-compliance-readiness-toolkit/
 ```
 
 ---
-> Below are real outputs from the toolkit demonstrating compliance tracking, risk identification, and reporting.
+> Below are example of Control status dashboard used during readiness assessment.
 ## 📸 Screenshots
-
+---
 ### Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
 
